@@ -1,0 +1,19 @@
+Have a splash Styling {background, borders etc} Add option icons -> https://cryptofont.com/#icons Limit to 3 decimal places
+
+Template: https://www.oanda.com/currency/converter/
+
+CryptoCompare API: https://www.cryptocompare.com/api
+
+CoinList - List of some 600 crypto currencies Ref: https://www.cryptocompare.com/api#-api-data-coinlist- API: https://min-api.cryptocompare.com/data/all/coinlist OLD - https://www.cryptocompare.com/api/data/coinlist/
+
+"BaseImageUrl":"https://www.cryptocompare.com" "ImageUrl":"/media/12318415/42.png"
+
+ImageUrl: "/media/19633/btc.png" ImageUrl: "/media/20646/eth_logo.png" ImageUrl: "/media/19782/litecoin-logo.png" ImageUrl: "/media/1383919/bch.jpg" ImageUrl: "/media/19972/ripple.png"
+
+https://www.cryptocompare.com/media/19633/btc.png https://www.cryptocompare.com/media/20646/eth_logo.png https://www.cryptocompare.com/media/19972/ripple.png https://www.cryptocompare.com/media/1383919/bch.jpg https://www.cryptocompare.com/media/19782/litecoin-logo.png
+
+Price - Get the price of a currency against multiple currencies. Ref: https://www.cryptocompare.com/api#-api-data-price-
+
+fsym-> FromSymbol tsyms-> ToSymbols API: https://min-api.cryptocompare.com/data/price?fsym=ETH&tsyms=BTC,USD,EUR,ETH
+
+"background-image: url(&apos;http://www.gravatar.com/avatar/b3e04a46e85ad3e165d66f5d927eb609?d=monsterid&amp;r=g&amp;s=16&apos;);" "background-image: url(&apos;https://www.cryptocompare.com/media/20646/eth_logo.png);"
